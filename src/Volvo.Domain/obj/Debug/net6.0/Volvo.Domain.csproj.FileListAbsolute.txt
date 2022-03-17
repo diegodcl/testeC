@@ -1,0 +1,12 @@
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/bin/Debug/net6.0/Volvo.Domain.deps.json
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/bin/Debug/net6.0/Volvo.Domain.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/bin/Debug/net6.0/ref/Volvo.Domain.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/bin/Debug/net6.0/Volvo.Domain.pdb
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/Debug/net6.0/Volvo.Domain.csproj.AssemblyReference.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/Debug/net6.0/Volvo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/Debug/net6.0/Volvo.Domain.AssemblyInfoInputs.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/Debug/net6.0/Volvo.Domain.AssemblyInfo.cs
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/Debug/net6.0/Volvo.Domain.csproj.CoreCompileInputs.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/Debug/net6.0/Volvo.Domain.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/Debug/net6.0/ref/Volvo.Domain.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/Debug/net6.0/Volvo.Domain.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Volvo.Domain/1.0.0": {
+        "runtime": {
+          "Volvo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Volvo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Infrastructure/Volvo.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj",
+        "projectName": "Volvo.Domain",
+        "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj",
+        "packagesPath": "/home/diego/.nuget/packages/",
+        "outputPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/Volvo.EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/Volvo.EntityFramework.csproj",
+        "projectName": "Volvo.EntityFramework",
+        "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/Volvo.EntityFramework.csproj",
+        "packagesPath": "/home/diego/.nuget/packages/",
+        "outputPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj": {
+                "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Infrastructure/Volvo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Infrastructure/Volvo.Infrastructure.csproj",
+        "projectName": "Volvo.Infrastructure",
+        "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Infrastructure/Volvo.Infrastructure.csproj",
+        "packagesPath": "/home/diego/.nuget/packages/",
+        "outputPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj": {
+                "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj"
+              },
+              "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/Volvo.EntityFramework.csproj": {
+                "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/Volvo.EntityFramework.csproj"
+              },
+              "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/Volvo.Service.csproj": {
+                "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/Volvo.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/Volvo.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/Volvo.Service.csproj",
+        "projectName": "Volvo.Service",
+        "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/Volvo.Service.csproj",
+        "packagesPath": "/home/diego/.nuget/packages/",
+        "outputPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj": {
+                "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Domain/Volvo.Domain.csproj"
+              },
+              "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/Volvo.EntityFramework.csproj": {
+                "projectPath": "/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/Volvo.EntityFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

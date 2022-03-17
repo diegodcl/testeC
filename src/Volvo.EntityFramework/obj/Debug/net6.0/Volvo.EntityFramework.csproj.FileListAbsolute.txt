@@ -1,0 +1,17 @@
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/bin/Debug/net6.0/Volvo.EntityFramework.deps.json
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/bin/Debug/net6.0/Volvo.EntityFramework.runtimeconfig.json
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/bin/Debug/net6.0/Volvo.EntityFramework.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/bin/Debug/net6.0/ref/Volvo.EntityFramework.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/bin/Debug/net6.0/Volvo.EntityFramework.pdb
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/bin/Debug/net6.0/Volvo.Domain.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/bin/Debug/net6.0/Volvo.Domain.pdb
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.csproj.AssemblyReference.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.AssemblyInfoInputs.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.AssemblyInfo.cs
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.csproj.CoreCompileInputs.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.csproj.CopyComplete
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/ref/Volvo.EntityFramework.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.pdb
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.EntityFramework/obj/Debug/net6.0/Volvo.EntityFramework.genruntimeconfig.cache

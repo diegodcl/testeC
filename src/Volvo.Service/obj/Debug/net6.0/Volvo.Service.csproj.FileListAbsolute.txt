@@ -1,0 +1,17 @@
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/bin/Debug/net6.0/Volvo.Service.deps.json
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/bin/Debug/net6.0/Volvo.Service.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/bin/Debug/net6.0/ref/Volvo.Service.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/bin/Debug/net6.0/Volvo.Service.pdb
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/bin/Debug/net6.0/Volvo.Domain.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/bin/Debug/net6.0/Volvo.EntityFramework.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/bin/Debug/net6.0/Volvo.Domain.pdb
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/bin/Debug/net6.0/Volvo.EntityFramework.pdb
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/Volvo.Service.csproj.AssemblyReference.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/Volvo.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/Volvo.Service.AssemblyInfoInputs.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/Volvo.Service.AssemblyInfo.cs
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/Volvo.Service.csproj.CoreCompileInputs.cache
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/Volvo.Service.csproj.CopyComplete
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/Volvo.Service.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/ref/Volvo.Service.dll
+/home/diego/Projects/Pessoal/entrevistaVolvo/src/Volvo.Service/obj/Debug/net6.0/Volvo.Service.pdb

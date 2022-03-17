@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volvo.Application", "Volvo.Application\Volvo.Application.csproj", "{E57B6835-B4CC-45E0-B50E-89AA471CD7C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volvo.Domain", "Volvo.Domain\Volvo.Domain.csproj", "{C75004FE-7942-456D-A46E-5C39A345589A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volvo.EntityFramework", "Volvo.EntityFramework\Volvo.EntityFramework.csproj", "{09C21D7A-C1CA-41D0-9AD8-C824047C4468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volvo.Infrastructure", "Volvo.Infrastructure\Volvo.Infrastructure.csproj", "{CAD9A196-6A21-4D25-93DF-671C6ACF22CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volvo.Service", "Volvo.Service\Volvo.Service.csproj", "{5C3292CA-DDEF-420B-A86B-7F68828CB038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volvo.EntityFramework.Test", "Volvo.EntityFramework.Test\Volvo.EntityFramework.Test.csproj", "{478A830A-7B36-4577-8783-E1A1E249CDE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57B6835-B4CC-45E0-B50E-89AA471CD7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57B6835-B4CC-45E0-B50E-89AA471CD7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57B6835-B4CC-45E0-B50E-89AA471CD7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57B6835-B4CC-45E0-B50E-89AA471CD7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75004FE-7942-456D-A46E-5C39A345589A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75004FE-7942-456D-A46E-5C39A345589A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75004FE-7942-456D-A46E-5C39A345589A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75004FE-7942-456D-A46E-5C39A345589A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C21D7A-C1CA-41D0-9AD8-C824047C4468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C21D7A-C1CA-41D0-9AD8-C824047C4468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C21D7A-C1CA-41D0-9AD8-C824047C4468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C21D7A-C1CA-41D0-9AD8-C824047C4468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD9A196-6A21-4D25-93DF-671C6ACF22CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD9A196-6A21-4D25-93DF-671C6ACF22CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD9A196-6A21-4D25-93DF-671C6ACF22CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD9A196-6A21-4D25-93DF-671C6ACF22CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3292CA-DDEF-420B-A86B-7F68828CB038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3292CA-DDEF-420B-A86B-7F68828CB038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3292CA-DDEF-420B-A86B-7F68828CB038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3292CA-DDEF-420B-A86B-7F68828CB038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478A830A-7B36-4577-8783-E1A1E249CDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478A830A-7B36-4577-8783-E1A1E249CDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478A830A-7B36-4577-8783-E1A1E249CDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478A830A-7B36-4577-8783-E1A1E249CDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
